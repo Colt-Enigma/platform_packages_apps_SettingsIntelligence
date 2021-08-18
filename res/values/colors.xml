@@ -20,4 +20,6 @@
 
     <color name="search_bar_background">@*android:color/white</color>
     <color name="search_panel_background">@*android:color/notification_material_background_color</color>
+
+    <color name="oos_bg_of_card">#f1f1f1</color>
 </resources>
